@@ -1,0 +1,11 @@
+{  
+    "applinks": {  
+        "apps": [],  
+        "details": [  
+            {  
+                "appID": "798W3W5M6M.com.liveApp.mcode",
+                "paths": [ "/ulink/*"]
+            }  
+        ]  
+    }  
+}
